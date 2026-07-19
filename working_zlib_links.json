@@ -1,0 +1,30 @@
+{
+  "generated_date": "2026-06-29 04:13:33 UTC",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Z-Library",
+    "https://zlibrary.st/new-z-library-official-website-links"
+  ],
+  "total_links": 5,
+  "links": [
+    {
+      "url": "https://z-lib.sk",
+      "description": "Wikipedia infobox first URL"
+    },
+    {
+      "url": "https://z-library.sk",
+      "description": "https://z-library.sk (Not Working February 2026)"
+    },
+    {
+      "url": "https://z-lib.fm",
+      "description": "https://z-lib.fm (Not Working February 2026)"
+    },
+    {
+      "url": "https://1lib.sk",
+      "description": "https://1lib.sk (Not Working February 2026) – Login and Search."
+    },
+    {
+      "url": "https://z-library.ec",
+      "description": "https://z-library.ec (Not Working February 2026)"
+    }
+  ]
+}
